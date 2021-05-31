@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Auditory Entrainment?
 
 You can use the [editor on GitHub](https://github.com/shaanverma/Computational-Model-of-Auditory-Entrainment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
