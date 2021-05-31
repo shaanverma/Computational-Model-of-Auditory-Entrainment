@@ -1,4 +1,12 @@
-## Auditory Entrainment?
+## Auditory Entrainment
+**Entrainment**: Synchronization of an oscillatory system(s) to an external rhythm/system
+- More efficient processing of stimuli
+- Entrainment of auditory neurons depends on properties of input stimuli: amplitude (volume), frequency, and rhythm
+
+- Entrainment is more likely to occur...
+- As stimulus frequency approaches intrinsic frequency and as stimulation intensity increases
+
+- Plays an important role in auditory selective attention
 
 You can use the [editor on GitHub](https://github.com/shaanverma/Computational-Model-of-Auditory-Entrainment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
