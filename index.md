@@ -6,9 +6,11 @@
    * As stimulus frequency approaches intrinsic frequency and as stimulation intensity increases
 * Plays an important role in auditory selective attention
 
-<p align="center">
-  <src="/entrainment.png" />
-</p>
+
+
+
+![A cute kitten](entrainment.png)
+
 
 ### Project Objective
 * Implement the computational model of auditory neurons presented in the paper, A Computational Model of Auditory Entrainment.
@@ -18,9 +20,8 @@
 ### Methods
 * Primary auditory neurons were modeled as phase-locked leaky integrate-and-fire (PL-LIF) cells by modifying the standard LIF equation as follows:
 
-<p align="center">
-  <img src="/LIF.png" />
-</p>
+
+![A cute kitten](LIF.png)
 ## Results
 
 
