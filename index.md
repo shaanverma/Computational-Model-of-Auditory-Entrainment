@@ -1,3 +1,7 @@
+### Welcome to my project!
+
+This site showcases my implementation and manipulation of the theoretical entrainment model presented in the paper ["A Computational Model of Auditory Entrainment"](https://www2.securecms.com/CCNeuro/docs-0/592888da68ed3f664d8a2567.pdf) by Saleh and Tomasso. First the neccessary background information to understand the both the theoretical and Python implementation of the model is presented. Followed by the project objectives, methods, code, and results.
+
 ### Auditory Entrainment
 * **Entrainment**: Synchronization of an oscillatory system(s) to an external rhythm/system
    * More efficient processing of stimuli
