@@ -11,9 +11,7 @@ This site showcases my implementation and manipulation of the theoretical entrai
 * Plays an important role in auditory selective attention
 
 
-
-
-![A cute kitten](entrainment.png)
+![EntrainmentFigure](entrainment.png)
 
 
 ### Project Objective
@@ -22,11 +20,18 @@ This site showcases my implementation and manipulation of the theoretical entrai
 * Give the neuron a pure tone input (sinusoidal current) instead of a step current.
 
 ### Methods
-* Primary auditory neurons were modeled as phase-locked leaky integrate-and-fire (PL-LIF) cells by modifying the standard LIF equation as follows:
-
+Primary auditory neurons were modeled as phase-locked leaky integrate-and-fire (PL-LIF) cells by modifying the standard LIF equation as follows:
 
 ![A cute kitten](LIF.png)
+
+where r is resistance and i(t) is input current, a is the oscillation amplitude, f is the
+oscillation frequency, and b is the phase.
+
+The authors determined the oscillation frequency and phase by two entrainment
+functions: greedy entrainment and attended entrainment, we didn’t use either.
+
 ## Results
+
 
 
 
