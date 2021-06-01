@@ -7,6 +7,7 @@
 - As stimulus frequency approaches intrinsic frequency and as stimulation intensity increases
 
 - Plays an important role in auditory selective attention
+
 ![EntrainmentFigure](/Entrainment.png)
 
 ## Project Objective
