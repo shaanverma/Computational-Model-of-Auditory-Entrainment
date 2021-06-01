@@ -7,7 +7,7 @@
 * Plays an important role in auditory selective attention
 
 <p align="center">
-  <img width="460" height="300" src="/entrainment.png">
+  <src="/entrainment.png" />
 </p>
 
 ### Project Objective
@@ -19,7 +19,7 @@
 * Primary auditory neurons were modeled as phase-locked leaky integrate-and-fire (PL-LIF) cells by modifying the standard LIF equation as follows:
 
 <p align="center">
-  <img width="460" height="300" src="/LIF.png">
+  <img src="/LIF.png" />
 </p>
 ## Results
 
