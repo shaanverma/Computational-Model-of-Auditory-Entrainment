@@ -8,7 +8,7 @@
 
 - Plays an important role in auditory selective attention
 
-![EntrainmentFigure](/Entrainment.png)
+![EntrainmentFigure](/entrainment.png)
 
 ## Project Objective
 
