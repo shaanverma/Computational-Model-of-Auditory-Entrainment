@@ -1,14 +1,15 @@
 ## Auditory Entrainment
-**Entrainment**: Synchronization of an oscillatory system(s) to an external rhythm/system
-- More efficient processing of stimuli
-- Entrainment of auditory neurons depends on properties of input stimuli: amplitude (volume), frequency, and rhythm
+* **Entrainment**: Synchronization of an oscillatory system(s) to an external rhythm/system
+   * More efficient processing of stimuli
+* Entrainment of auditory neurons depends on properties of input stimuli: amplitude (volume), frequency, and rhythm
+* Entrainment is more likely to occur...
+   * As stimulus frequency approaches intrinsic frequency and as stimulation intensity increases
+* Plays an important role in auditory selective attention
 
-- Entrainment is more likely to occur...
-- As stimulus frequency approaches intrinsic frequency and as stimulation intensity increases
+<p align="center">
+  <img width="460" height="300" src="/entrainment.png">
+</p>
 
-- Plays an important role in auditory selective attention
-
-![EntrainmentFigure](/entrainment.png)
 
 ## Project Objective
 
