@@ -1,4 +1,4 @@
-## Auditory Entrainment
+### Auditory Entrainment
 * **Entrainment**: Synchronization of an oscillatory system(s) to an external rhythm/system
    * More efficient processing of stimuli
 * Entrainment of auditory neurons depends on properties of input stimuli: amplitude (volume), frequency, and rhythm
@@ -10,11 +10,17 @@
   <img width="460" height="300" src="/entrainment.png">
 </p>
 
+### Project Objective
+* Implement the computational model of auditory neurons presented in the paper, A Computational Model of Auditory Entrainment.
+* Explore the behaviour of our model when the intrinsic neuronal properties change.
+* Give the neuron a pure tone input (sinusoidal current) instead of a step current.
 
-## Project Objective
+### Methods
+* Primary auditory neurons were modeled as phase-locked leaky integrate-and-fire (PL-LIF) cells by modifying the standard LIF equation as follows:
 
-## Methods
-
+<p align="center">
+  <img width="460" height="300" src="/LIF.png">
+</p>
 ## Results
 
 
